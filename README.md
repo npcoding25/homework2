@@ -21,4 +21,4 @@
 ![image](https://user-images.githubusercontent.com/69565347/93715406-f3bb8e80-fb1d-11ea-980f-ff511beed08d.png)
 ![image](https://user-images.githubusercontent.com/69565347/93715474-49903680-fb1e-11ea-8db0-5a6a37c4c716.png)
 
-Click[Here](https://npcoding25.github.io/homework2/) to see launched website.
+Click [Here](https://npcoding25.github.io/homework2/) to see launched website.
