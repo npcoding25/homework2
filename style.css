@@ -17,10 +17,6 @@ body {
     margin-top: 1em;
 }
 
-#img3 {
-    margin-top: 1em;
-}
-
 h1 {
     color: tomato;
     font-style: bold, italic;
@@ -35,7 +31,7 @@ h1 {
 
 
 .lead {
-    margin-left: 3em;
+    margin-left: 1em;
     color: black;
 }
 
